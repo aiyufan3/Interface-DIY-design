@@ -1,0 +1,6 @@
+/Users/aiyufan/CLionProjects/YufanAi/cmake-build-debug/CMakeFiles/YufanAi.dir
+/Users/aiyufan/CLionProjects/YufanAi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aiyufan/CLionProjects/YufanAi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/aiyufan/CLionProjects/YufanAi/cmake-build-debug/YufanAiLib/CMakeFiles/YufanAiLib.dir
+/Users/aiyufan/CLionProjects/YufanAi/cmake-build-debug/YufanAiLib/CMakeFiles/edit_cache.dir
+/Users/aiyufan/CLionProjects/YufanAi/cmake-build-debug/YufanAiLib/CMakeFiles/rebuild_cache.dir
